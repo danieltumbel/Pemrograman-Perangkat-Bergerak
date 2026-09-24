@@ -31,3 +31,7 @@ class Modul03App extends StatelessWidget {
     );
   }
 }
+
+void mmain() {
+  runApp(const Modul03App());
+}
